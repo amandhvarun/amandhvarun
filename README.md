@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FrontEnd**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Arduino,RaspberryPi,IoT,AWS IoT Core,react**
 
 - 📫 How to reach me **varunamandh12@gmail.com**
 
