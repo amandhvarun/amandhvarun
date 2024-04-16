@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Oddekka Amandu</h1>
-<h3 align="center">A passionate and Aspiring Engineer in Internet of Things from India</h3>
+<h3 align="center">A passionate and Aspiring Engineer in Internet of Things from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandhvarun" alt="amandhvarun" /></a> </p>
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Internet of Things (IoT),Cloud,RaspberryPi,Arduino,WebDevlopment(FrontEnd)**
 
 - 📫 How to reach me **varunamandh12@gmail.com**
+
+- ⚡ Fun fact **You can't wish to have a simple life with strong character!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
