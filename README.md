@@ -2,15 +2,12 @@
 <h3 align="center">A passionate and Aspiring Engineer in Internet of Things from India.</h3>
 
 
-- 🔭 I’m currently working on **DEVELOPMENT OF SMART SOLAR CHARGE CONTROLLER ON WIZNET W5500 IOT PLATFORM**
-
-- 🌱 I’m currently learning **FrontEnd**
-
+- 🔭 I’m currently working on **CommandNest:An Autonomous Voice-Controlled 
+offline Automation System**
+- 🦾 Good at programming in Java, C++;
 - 💬 Ask me about **Internet of Things (IoT),Cloud,RaspberryPi,Arduino,WebDevlopment(FrontEnd)**
-
-- 📫 How to reach me **varunamandh12@gmail.com**
-
-- ⚡ Fun fact **You can't wish to have a simple life with strong character!**
+- 📫 How to reach me **varunamandh12@gmail.com** or at linkedin : **Varun Oddekka Amandu**
+- ⚡Fact I believe **You can't wish to have a simple life with strong character!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
