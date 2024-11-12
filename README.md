@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Oddekka Amandu</h1>
-<h3 align="center">A passionate and Aspiring Engineer in Internet of Things from India.</h3>
+<h3 align="center">A passionate and Aspiring Computer Science Engineer with specialization in Internet of Things.</h3>
 
 
 - 🔭 I’m currently working on **CommandNest:An Autonomous Voice-Controlled 
