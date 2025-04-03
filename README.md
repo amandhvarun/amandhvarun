@@ -2,9 +2,8 @@
 <h3 align="center">A passionate and Aspiring Computer Science Engineer with specialization in Internet of Things.</h3>
 
 
-- 🔭 I’m currently working on **CommandNest:An Autonomous Voice-Controlled 
-offline Automation System**
-- 🦾 Good at programming in Java, C++;
+- 🔭 Graduate 2025
+- 🦾 Good at programming in Java;
 - 💬 Ask me about **Internet of Things (IoT),Cloud,RaspberryPi,Arduino,WebDevlopment(FrontEnd)**
 - 📫 How to reach me **varunamandh12@gmail.com** or at linkedin : **Varun Oddekka Amandu**
 - ⚡Fact I believe **You can't wish to have a simple life with strong character!**
